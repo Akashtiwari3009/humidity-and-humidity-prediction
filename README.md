@@ -1,1 +1,1 @@
-# humidity-and-humidity-prediction
+# temperature-and-humidity-prediction
